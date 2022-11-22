@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.Main_Sec
+{
+    display: grid;
+    grid-template-columns: [] 20% [] 80%;
+    div{
+        border: 1px solid rgb(207, 204, 204);
+        padding: 10px;
+    }
+    .btn-nwColumAdd
+    {
+        
+    }
+}
